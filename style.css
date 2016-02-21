@@ -3,25 +3,73 @@ body {
 }
 
 header {
-	background-image: #555;
 	color: white;
+	background-image: #555;
 	padding: 5px 15px;
+	width: 50%;
+	position: relative;
+	left: 46.6667%;
+	margin-top: -6em;
 
+}
+h3{
+	font-family: sans-serif;
+	text-align: right;
+	margin-top: 6em;
+	margin-right: 1.8em;
 }
 header h1{
 	display: inline;
 }
+nav ul{
+	text-align: right;
+	margin-right: 10;
+
+
+}
+.line {
+	width: 29.95%;
+	height: 3px;
+	background: gold;
+	right: 30px;
+	position: absolute;
+	margin-top: -1em;
+}
+.image1{
+	margin-left: 10;
+	position: relative;
+	left: 20px;
+
+}
+.hanging{
+	margin-left: 10;
+	position: relative;
+	left: 927.5px;
+	top: 110px;
+
+}
 nav ul li{
-	background: red;
-	color: white;
+	background: tomato;
+	/*color: lightslategray;*/
+	color: black;
 	display: inline-block;
 	list-style-type: none;
 	padding:  5px 15px;
 	margin: 0;
+	text-align: right;
+	font-family: sans-serif;
+
 }
-nav ul li a {
-	color: white;
+
+hr{
+	text-align: right;
+	width: 50%;
+
 }
 footer{
-	color: gold;
+	color: mediumvioletred;
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+
 }
