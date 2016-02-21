@@ -46,7 +46,12 @@ nav ul{
 	position: relative;
 	left: 1002px;
 	top: 80px;
-
+}
+.lake{
+	margin-left: 10;
+	position: relative;
+	left: 900px;
+	top: 80px;
 }
 nav ul li{
 	background: tomato;
