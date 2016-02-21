@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-image: #555;
+	color: white;
+	padding: 5px 15px;
+
+}
+header h1{
+	display: inline;
+}
+nav ul li{
+	background: red;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding:  5px 15px;
+	margin: 0;
+}
+nav ul li a {
+	color: white;
+}
+footer{
+	color: gold;
+}
