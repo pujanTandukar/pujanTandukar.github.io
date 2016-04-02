@@ -12,12 +12,30 @@ header {
 	margin-top: -6em;
 
 }
-h3{
+.devilhead{
 	font-family: sans-serif;
 	text-align: right;
-	margin-top: 4.5em;
-	margin-right: 1.8em;
+	margin-top: 4.2em;
+	margin-right: 1.75em;
 }
+.hanginglake{
+	font-family: sans-serif;
+	text-align: right;
+	margin-top: -2.2em;
+	margin-right: 14em;
+}
+/*.chataqua{
+	font-family: sans-serif;
+	text-align: right;
+	margin-top: 2.2em;
+	margin-right: 15em;
+}*/
+/*h4{
+	font-family: sans-serif;
+	text-align: right;
+	margin-top: 3em;
+	margin-right: 1.75em;
+}*/
 header h1{
 	display: inline;
 }
@@ -28,7 +46,7 @@ nav ul{
 
 }
 .line {
-	width: 29.95%;
+	width: 32.4%;
 	height: 3px;
 	background: gold;
 	right: 30px;
@@ -44,15 +62,22 @@ nav ul{
 .devil{
 	margin-left: 10;
 	position: relative;
-	left: 1002px;
+	left: 1125px;
 	top: 80px;
 }
 .lake{
 	margin-left: 10;
 	position: relative;
-	left: 900px;
+	left: 680px;
 	top: 80px;
 }
+/*.chataqua{
+	margin-left: 10;
+	position: relative;
+	left: 580px;
+	top: 300px;
+}*/
+
 nav ul li{
 	background: tomato;
 	/*color: lightslategray;*/
