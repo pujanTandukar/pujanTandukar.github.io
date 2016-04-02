@@ -15,6 +15,6 @@ $(document).ready(function() {
       'opacity': '1'
       // 'margin-left': xCenter
     });
-  }, 50);
+  }, 250);
 
 });
