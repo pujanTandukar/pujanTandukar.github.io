@@ -1,17 +1,19 @@
-var accessToken = '179432880.1677ed0.4b80d0452ff44666a13c21148740f620';
+console.log('hi');
 
-$.ajax({
-    url: 'https://api.instagram.com/p/4x_u2rLQYMT5I_DvpgXHw6145F69P-BO_cx4o0/?taken-by=puj.png',
-    dataType: 'jsonp',
-    type: 'GET',
-    data: {client_id: accessToken},
-    success: function(data){
-        console.log(data);
-        for(x in data.data){
-          $('ul').append('<li><img src="'+data.data[x].images.low_resolution.url+'"></li>');
-        }
-    },
-    error: function(data){
-        console.log(data);
-    }
+$(document).ready(function() {
+
+  console.log('hi');
+
+  var windowHeight = $(window).height();
+  var windowWidth = $(window).width();
+  var picHeight = $('.image1').height();
+  var picWidth = $('.image1').width();
+  var xCenter = (windowWidth / 2) - (picWidth / 2);
+  var yCenter = (windowHeight / 2) - (picHeight / 2);
+
+  $('.image1').css({
+    'margin-top': yCenter,
+    'margin-left': xCenter
+  });
+
 });
