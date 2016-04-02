@@ -2,9 +2,6 @@ console.log('hi');
 
 $(document).ready(function() {
 
-  console.log('hi');
-
-
   var windowHeight = $(window).height();
   var windowWidth = $(window).width();
   var picHeight = $('.image1').height();
