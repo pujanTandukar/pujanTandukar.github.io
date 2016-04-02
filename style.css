@@ -58,8 +58,9 @@ nav ul{
 	position: relative;
 	display: block;
 	margin: 0 auto;
-	opacity: 0;
-	transition: 0.15s linear
+	opacity: 1;
+	transition: 0.15s linear;
+	margin-top: 5em;
 }
 
 .devil{
