@@ -54,11 +54,13 @@ nav ul{
 	margin-top: -1em;
 }
 .image1{
-	margin-left: 10;
 	position: relative;
-	left: 20px;
-
+	margin-top: 6%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .devil{
 	margin-left: 10;
 	position: relative;
@@ -86,7 +88,7 @@ nav ul li{
 	list-style-type: none;
 	padding:  5px 15px;
 	margin: 0;
-	text-align: right;
+	text-align: bottom;
 	font-family: sans-serif;
 
 }
@@ -97,7 +99,7 @@ hr{
 
 }
 footer{
-	color: mediumvioletred;
+	color: white;
 	position: fixed;
 	bottom: 5px;
 	left: 5px;
