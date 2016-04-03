@@ -1,109 +1,100 @@
 body {
 	margin: 0;
+	padding: 0;
 	overflow: hidden;
 }
 
-header {
-	color: white;
-	background-image: #555;
-	padding: 5px 15px;
-	width: 50%;
-	position: relative;
-	left: 46.6667%;
-	margin-top: -6em;
-
-}
-.devilhead{
-	font-family: sans-serif;
-	text-align: right;
-	margin-top: 4.2em;
-	margin-right: 1.75em;
-}
-.hanginglake{
-	font-family: sans-serif;
-	text-align: right;
-	margin-top: -2.2em;
-	margin-right: 14em;
-}
-/*.chataqua{
-	font-family: sans-serif;
-	text-align: right;
-	margin-top: 2.2em;
-	margin-right: 15em;
-}*/
-/*h4{
-	font-family: sans-serif;
-	text-align: right;
-	margin-top: 3em;
-	margin-right: 1.75em;
-}*/
-header h1{
-	display: inline;
-}
-nav ul{
-	text-align: right;
-	margin-right: 10;
-
-
-}
-.line {
-	width: 32.4%;
-	height: 3px;
-	background: gold;
-	right: 30px;
-	position: absolute;
-	margin-top: -1em;
-}
-.image1{
+/*.image1{
 	position: relative;
 	display: block;
 	margin: 0 auto;
 	opacity: 1;
 	transition: 0.15s linear;
 	margin-top: 5em;
-}
-
-.devil{
-	margin-left: 10;
-	position: relative;
-	left: 1125px;
-	top: 80px;
-}
-.lake{
-	margin-left: 10;
-	position: relative;
-	left: 680px;
-	top: 80px;
-}
-/*.chataqua{
-	margin-left: 10;
-	position: relative;
-	left: 580px;
-	top: 300px;
 }*/
 
-nav ul li{
-	background: tomato;
-	/*color: lightslategray;*/
-	color: black;
+#logo {
+	width: 550px;
+  display: block;
+  margin: 0 auto;
+	margin-top: 1em;
+}
+
+@media screen and (max-width: 480px) {
+	#logo {
+		width: 350px;
+		margin-top: 5em;
+	}
+}
+
+#Pink:hover{
+	fill: #5c832f;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#Blue:hover{
+	fill: #eb7f00;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#Yellow:hover{
+	fill: #36175e;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#Green:hover{
+	fill: #d3264c;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#dBlue:hover{
+	fill: #ffffff;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#dYellow:hover{
+	fill: #000000;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#dRed:hover{
+	fill: #acf0f2;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+#lBlue:hover{
+	fill: #b9121b;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+}
+/*nav ul li{
 	display: inline-block;
 	list-style-type: none;
 	padding:  5px 15px;
 	margin: 0;
 	text-align: bottom;
 	font-family: sans-serif;
+}*/
 
-}
-
-hr{
-	text-align: right;
-	width: 50%;
-
-}
 footer{
 	color: white;
 	position: fixed;
 	bottom: 5px;
 	left: 5px;
-
 }
