@@ -20,7 +20,7 @@ body {
 	margin-top: 1em;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
 	#logo {
 		width: 350px;
 		margin-top: 5em;
