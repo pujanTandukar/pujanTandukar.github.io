@@ -1,0 +1,256 @@
+#Pink:hover{
+	fill: #CC6699;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changeone 3.5s;
+}
+
+@keyframes color-changeone{
+	0%{
+		fill: #CC6699;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #CC6699;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #CC6699;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #CC6699;
+  }
+}
+#Blue:hover{
+	fill: #96CAE3;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changetwo 3.5s;
+}
+
+@keyframes color-changetwo{
+	0%{
+		fill: #96CAE3;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #96CAE3;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #96CAE3;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #96CAE3;
+  }
+}
+#Yellow:hover{
+	fill: #FAF17F;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changethree 3.5s;
+}
+
+@keyframes color-changethree{
+	0%{
+		fill: #FAF17F;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #FAF17F;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #FAF17F;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #FAF17F;
+  }
+}
+#Green:hover{
+	fill: #249B61;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changefour 3.5s;
+}
+
+@keyframes color-changefour{
+	0%{
+		fill: #249B61;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #249B61;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #249B61;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #249B61;
+  }
+}
+#dBlue:hover{
+	fill: #038AB8;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changefive 3.5s;
+}
+
+@keyframes color-changefive{
+	0%{
+		fill: #038AB8;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #038AB8;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #038AB8;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #038AB8;
+  }
+}
+#dYellow:hover{
+	fill: #D8A932;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changesix 3.5s;
+}
+
+@keyframes color-changesix{
+	0%{
+		fill: #D8A932;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #D8A932;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #D8A932;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #D8A932;
+  }
+}
+#dRed:hover{
+	fill: #CC3333;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changeseven 3.5s;
+}
+
+@keyframes color-changeseven{
+	0%{
+		fill: #CC3333;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+	20%{
+		fill: #CC3333;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #CC3333;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #CC3333;
+  }
+}
+#lBlue:hover{
+	fill: #96CAE3;
+	-moz-box-shadow: 0 0 5px #fff;
+	-webkit-box-shadow: 0 0 5px #fff;
+	background-color: blue;
+	box-shadow: 250px 250px 250px #ffffff;
+	animation: color-changeeight 3.5s;
+}
+
+@keyframes color-changeeight{
+	0%{
+		fill: #96CAE3;
+		}
+	10%{
+		fill: #FAFAFF;
+	}
+  20%{
+		fill: #96CAE3;
+		}
+	30%{
+		fill: #FAFAFF;
+	}
+	40%{
+		fill: #96CAE3;
+		}
+	50%{
+		fill: #FAFAFF;
+	}
+  60%{
+    fill: #96CAE3;
+  }
+}

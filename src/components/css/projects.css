@@ -1,0 +1,72 @@
+#eachProject {
+  /* width: 30%; */
+  /* padding: 3% 10% 0% 10%; */
+  /* display: flex; */
+  max-width: 40%;
+  padding: 2em;
+  flex: 1;
+  text-align: justify;
+  text-align-last: center;
+  -moz-text-align-last: center;
+  font-family: 'Raleway', sans-serif;
+}
+#projectsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* max-width: 50%; */
+}
+#projectImage {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  opacity: 0.9;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(95%);
+  border-radius: 45px;
+  box-shadow: 5px 5px 10px grey;
+}
+
+#projectImage:hover {
+  transition: 2s ease;
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+#seperateLink:link {
+  text-decoration: none;
+  color: #1f2421;
+}
+
+#seperateLink:visited {
+  text-decoration: none;
+  color: #1f2421;
+}
+
+#seperateLink:hover {
+  color: #fc4862;
+  /* text-decoration: underline red; */
+}
+
+#seperateLink:active {
+  color: #1f2421;
+  text-decoration: none;
+}
+#eachProject h3 {
+  margin-bottom: 0%;
+  text-align: center;
+  text-decoration-color: #1d211e;
+}
+#eachProject h4 {
+  margin-bottom: 0%;
+  margin-top: 2%;
+  text-align: center;
+  text-decoration-color: #1f2421;
+}
+#eachProject h5 {
+  margin-top: 2%;
+  text-align: center;
+  /* text-align: justify; */
+}
