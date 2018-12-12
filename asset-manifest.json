@@ -1,13 +1,13 @@
 {
-  "main.css": "static/css/main.363244c6.css",
-  "main.css.map": "static/css/main.363244c6.css.map",
-  "main.js": "static/js/main.e7118459.js",
-  "main.js.map": "static/js/main.e7118459.js.map",
-  "static/media/ColoursDuo.png": "static/media/ColoursDuo.40f9a8ab.png",
-  "static/media/Cozy.png": "static/media/Cozy.3288f50a.png",
-  "static/media/Library.png": "static/media/Library.e6abab86.png",
-  "static/media/Shrine.png": "static/media/Shrine.6f9b4713.png",
-  "static/media/WorkoutDiaryDuo.png": "static/media/WorkoutDiaryDuo.c2c1b3cd.png",
-  "static/media/logo2.svg": "static/media/logo2.f1aa94a5.svg",
-  "static/media/web.png": "static/media/web.79174027.png"
+  "main.css": "www.pujantandukar.com/static/css/main.f6d5ba79.chunk.css",
+  "main.js": "www.pujantandukar.com/static/js/main.e04dd386.chunk.js",
+  "main.js.map": "www.pujantandukar.com/static/js/main.e04dd386.chunk.js.map",
+  "static/js/1.6a8c248e.chunk.js": "www.pujantandukar.com/static/js/1.6a8c248e.chunk.js",
+  "static/js/1.6a8c248e.chunk.js.map": "www.pujantandukar.com/static/js/1.6a8c248e.chunk.js.map",
+  "runtime~main.js": "www.pujantandukar.com/static/js/runtime~main.2082fe1b.js",
+  "runtime~main.js.map": "www.pujantandukar.com/static/js/runtime~main.2082fe1b.js.map",
+  "static/css/main.f6d5ba79.chunk.css.map": "www.pujantandukar.com/static/css/main.f6d5ba79.chunk.css.map",
+  "index.html": "www.pujantandukar.com/index.html",
+  "precache-manifest.633b70cdca361c061a23e4789e7ac783.js": "www.pujantandukar.com/precache-manifest.633b70cdca361c061a23e4789e7ac783.js",
+  "service-worker.js": "www.pujantandukar.com/service-worker.js"
 }
